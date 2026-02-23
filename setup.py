@@ -85,6 +85,7 @@ setup(
         "pandas",
         # Plotting learning curves
         "matplotlib",
+        "tensorboard",
     ],
     extras_require={
         "tests": [
